@@ -10,12 +10,17 @@ To use the Weather Report Scraping tool, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the script using `python src/scraping.py`.
-4. View the extracted weather data and logs in /data.
+3. Make sure to include the necessary configuration in the `config.py` file, such as API keys or any other relevant settings.
+4. Run the script using `python src/scraping.py` or executing `execute_scraping.bat`.
+5. View the extracted weather data and logs in the `/data` directory.
+
+## Data Dictionaries
+
+The data dictionaries outlining the structure and meaning of the scraped data can be found in the `/references` directory. They provide insights into the various fields and their interpretations.
 
 ## Author
 
-- **Your Name:** [@francocontigo](https://www.github.com/francocontigo)
+- [@francocontigo](https://www.github.com/francocontigo)
 
 ## License
 
