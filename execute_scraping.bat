@@ -9,5 +9,8 @@ call %VENV_PATH%
 rem Execute the Python script
 python src\scraping.py
 
+rem Pause for user input before deactivating the virtual environment
+pause
+
 rem Deactivate the virtual environment
 deactivate
