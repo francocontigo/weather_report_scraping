@@ -10,9 +10,8 @@ To use the Weather Report Scraping tool, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Create a virtual environment (venv) by running `python -m venv venv` and activate it. Then, install the required dependencies using `pip install -r requirements.txt`.
-3. Make sure to include the necessary configuration in the `config.py` file, such as API keys or any other relevant settings.
-4. Run the script using `python src/scraping.py` or execute `execute_scraping.bat`.
-5. View the extracted weather data and logs in the `/data` directory.
+3. Run the script using `python src/scraping.py` in terminal or execute `execute_scraping.bat` in the root directory.
+4. View the extracted weather data and logs in the `/data` directory.
 
 ## Data Dictionaries
 
