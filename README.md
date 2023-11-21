@@ -2,7 +2,7 @@
 
 ## Description
 
-Weather Report Scraping is a Python-based web scraping tool designed to extract weather data from Google. This project provides a simple way to retrieve up-to-date weather information using requests-html, allowing users to gather data for analysis, reporting, or any other relevant use cases.
+Weather Report Scraping is a Python-based web scraping tool designed to extract weather data from Google. This project provides a simple way to retrieve up-to-date weather information using requests-html library, allowing users to gather data for analysis, reporting, or any other relevant use cases.
 
 ## Usage
 
@@ -15,7 +15,7 @@ To use the Weather Report Scraping tool, follow these steps:
 
 ## Data Dictionaries
 
-The data dictionaries outlining the structure and meaning of the scraped data can be found in the `/references` directory. They provide insights into the various fields and their interpretations.
+The data dictionaries outlining the structure and meaning of the scraped data can be found in the `/references` directory. They describe the various fields and their interpretations.
 
 ## Author
 
