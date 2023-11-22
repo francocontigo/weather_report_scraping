@@ -56,12 +56,12 @@ def get_weather_data(query):
 def save_to_csv(data, data_file_path, logs_file_path, execution_time, user):
     with open(data_file_path, 'a', encoding='utf-8') as file:
         if data['status']:
-            print(f"{data['air_humidity_current']}, {data['desc_current']}, {data['desc_day']}, {data['unit']}, {data['rain_current']}, {data['temp_current']}, {data['temp_max']}, {data['temp_min']}, {data['wind_speed_current']}, {data['date_time']}", file=file)
+            print(f"{data['air_humidity_current']},{data['desc_current']},{data['desc_day']},{data['unit']},{data['rain_current']},{data['temp_current']},{data['temp_max']},{data['temp_min']},{data['wind_speed_current']},{data['date_time']}", file=file)
         else:
-            print(f"{None}, {None}, {None}, {None}, {None}, {None}, {None}, {None}, {None}, {None}", file=file)
+            print(f"{None},{None},{None},{None},{None},{None},{None},{None},{None},{None}", file=file)
 
     with open(logs_file_path, "a", encoding='utf-8') as file:
-        print(f"{user}, {execution_time}, {data['status']}", file=file)
+        print(f"{user},{execution_time},{data['status']}", file=file)
 
 
 def main():

@@ -1,5 +1,1 @@
-air_humidity_current, desc_current, desc_day, unit, rain_current, temp_current, temp_max, temp_min, wind_speed_current, date_time
-49%, Parcialmente nublado, Parcialmente nublado, °C, 0%, 28, 28, 18, 8 km/h, 2023-11-21 13:39:12.047250
-49%, Parcialmente nublado, Parcialmente nublado, °C, 0%, 28, 28, 18, 8 km/h, 2023-11-21 13:46:05.985458
-49%, Parcialmente nublado, Parcialmente nublado, °C, 0%, 28, 28, 18, 8 km/h, 2023-11-21 13:46:08.506401
-None, None, None, None, None, None, None, None, None, None
+air_humidity_current,desc_current, esc_day,unit,rain_current,temp_current,temp_max,temp_min,wind_speed_current,date_time
