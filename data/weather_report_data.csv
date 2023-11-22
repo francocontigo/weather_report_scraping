@@ -1,1 +1,4 @@
-air_humidity_current,desc_current, esc_day,unit,rain_current,temp_current,temp_max,temp_min,wind_speed_current,date_time
+air_humidity_current,desc_current,desc_day,unit,rain_current,temp_current,temp_max,temp_min,wind_speed_current,date_time
+84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:03.339912
+84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:06.021060
+84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:08.254917
