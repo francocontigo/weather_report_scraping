@@ -1,4 +1,11 @@
 air_humidity_current,desc_current,desc_day,unit,rain_current,temp_current,temp_max,temp_min,wind_speed_current,date_time
 84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:03.339912
-84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:06.021060
-84%,Chuva,Chuvas com trovoadas,°C,70%,24,24,18,13 km/h,2023-11-22 14:31:08.254917
+63%,Parcialmente nublado,Parcialmente nublado,°C,1%,19,24,11,11 km/h,2023-11-24 19:17:19.461011
+54%,Parcialmente nublado,Parcialmente nublado,°C,0%,22,24,13,11 km/h,2023-11-25 12:00:33.126553
+62%,Nublado,Nublado,°C,1%,22,23,16,11 km/h,2023-11-26 12:00:24.975734
+84%,Nublado,Chuva,°C,73%,19,20,17,11 km/h,2023-11-27 12:00:51.900562
+97%,Pancadas leves de chuva,Chuvas com trovoadas,°C,70%,19,21,18,10 km/h,2023-11-28 12:00:19.050013
+70%,Parcialmente nublado,Tempestades isoladas com raios e trovões,°C,31%,26,27,18,13 km/h,2023-11-29 12:00:18.491012
+56%,Sol,Sol,°C,0%,28,29,18,16 km/h,2023-11-30 12:00:27.885873
+63%,Sol,Parcialmente nublado,°C,10%,29,32,19,6 km/h,2023-12-01 18:06:32.349865
+65%,Parcialmente nublado,Tempestades isoladas com raios e trovões,°C,0%,28,31,19,8 km/h,2023-12-02 12:00:20.021018
