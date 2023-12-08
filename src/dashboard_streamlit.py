@@ -15,6 +15,7 @@ def get_data():
     data_file_path = os.path.join(data_path, 'weather_report_data.csv')
     df = pd.read_csv(data_file_path)
     return df
+
 df = get_data()
 
 #SIDEBAR

@@ -18,6 +18,10 @@ To use the Weather Report Scraping tool, follow these steps:
 
 The data dictionaries outlining the structure and meaning of the scraped data can be found in the `/references` directory. They describe the various fields and their interpretations.
 
+## Graphs
+
+The charts plotted during the analysis can be found in the `/references/graphs` directory.
+
 ## Author
 
 - [@francocontigo](https://www.github.com/francocontigo)
