@@ -108,7 +108,7 @@ class WeatherDataSaver:
         - data (dict): Weather data to be saved.
         - data_file_path (str): Path to the CSV file for weather data.
         - logs_file_path (str): Path to the CSV file for logs.
-        - user (str): User information.
+        - user (str): Username variable from OS.
         - execution_time (float): Execution time of the main function.
 
         Returns:
